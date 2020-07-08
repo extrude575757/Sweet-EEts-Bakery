@@ -99,7 +99,7 @@ img {
   
   border-radius: 10px;
 }
-div > section > img {
+section > div > img {
   margin-top: 60px;
   border-radius: 10px;
 }
