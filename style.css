@@ -99,6 +99,11 @@ img {
   
   border-radius: 10px;
 }
+div > section > img {
+  margin-top: 60px;
+  border-radius: 10px;
+}
+
 .content-row {
   display: flex;
 }
